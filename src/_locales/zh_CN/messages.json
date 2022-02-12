@@ -1,0 +1,11 @@
+{
+    "appName":{
+        "message":"油管护眼模式"
+    },
+    "appDescription":{
+        "message": "这个扩展能帮助使油管的背景变黑"
+    },
+    "enableDarkModeText":{
+        "message": "一件护眼"
+    }
+}
